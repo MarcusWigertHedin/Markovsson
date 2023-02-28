@@ -1,0 +1,5 @@
+Markovsson TODO:
+Swedish name generation
+	Find good list
+	POC
+	Make better TODO
