@@ -1,5 +1,9 @@
 Markovsson TODO:
 Swedish name generation
-	Find good list
-	POC
-	Make better TODO
+    List names
+    Break down into components
+    Assemble components into passable names
+
+Swedish word generation
+    Same as name generation, sans list
+
